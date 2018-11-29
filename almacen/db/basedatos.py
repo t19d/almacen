@@ -4,6 +4,8 @@ from sqlalchemy import exc
 #import sqlalchemy
 import MySQLdb
 
+# Propietario: David Tojo
+
 ###OBJETOS DE LA BASE DE DATOS###
 #################################################################################################
 
