@@ -2,6 +2,8 @@
 # -*- coding: UTF-8 -*-
 #
 
+# Propietario: David Tojo
+
 import wx
 
 # begin wxGlade: dependencies
