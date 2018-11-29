@@ -7,7 +7,6 @@ from interfaz import *
 
 class MiApp(wx.App):
     def OnInit(self):
-        # Instancia de la ventana como atributo de la clase
         self.ventana=Principal(None, wx.ID_ANY, "")
         self.SetTopWindow(self.ventana)
         self.ventana.Show()
